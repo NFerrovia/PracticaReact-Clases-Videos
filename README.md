@@ -1,6 +1,8 @@
 ADVERTENCIA!
 Si la consola genera advertencias probablemente tengan que ver con algun software de Adblock instalado en el ordenador, debido a las publicidades bloqueadas.
 
+Netlify (refactorizado a hooks en vez de class): https://hungry-austin-2de8ec.netlify.app/
+
 Documentación:
 
 REACT

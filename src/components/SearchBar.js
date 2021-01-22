@@ -18,7 +18,10 @@ class SearchBar extends React.Component {
 
   render() {
     return (
-      <div className="search-bar ui segment">
+      <div
+        className="search-bar ui segment"
+        style={{ backgroundColor: 'lavender' }}
+      >
         <form onSubmit={this.onFormSubmit} className="ui form">
           <div className="field">
             <label>Ingrese un término de busqueda</label>
